@@ -1,7 +1,7 @@
   <div>
   <h1 align="center">Oi Tudo bem? Que bom você por aqui! 😃️</h1><div align="center">
 
-<p align="center"><i>"Meu nome é Allan e sou um estudante de programação. Tenho pouco mais de 1 mês de experiência em desenvolvimento web. Tenho uma paixão por dar vida a todos os meus projetos, e sonhos gigantescos.
+<p align="center">Meu nome é Allan e sou um estudante de programação. Tenho pouco mais de 1 mês de experiência em desenvolvimento web. Tenho uma paixão por dar vida a todos os meus projetos, e sonhos gigantescos.
 
 Espero que meu portfólio ajude a ilustrar quanto trabalho posso colocar em um projeto e como sou apaixonado por desenvolvimento web."</i></p>
 
