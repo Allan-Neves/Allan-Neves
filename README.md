@@ -29,13 +29,9 @@ Espero que meu portfólio ajude a ilustrar quanto trabalho posso colocar em um p
  
 <div align="center">
     <a href="https://www.instagram.com/allancarlos_1/">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-
-    <a href="https://www.linkedin.com/in/allan-carlos/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+<a href="https://www.linkedin.com/in/allan-carlos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
