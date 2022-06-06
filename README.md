@@ -3,7 +3,7 @@
 
 <p align="center">Meu nome é Allan e sou um estudante de programação. Tenho uma paixão por desenvolvimento web, e amo dar a vida em todos os meus projetos, e claro  tenho sonhos gigantescos.
 
-Espero que meu portfólio ajude a ilustrar quanto trabalho posso colocar em um projeto e como sou apaixonado por desenvolvimento web!"</i></p>
+Espero que meu portfólio ajude a ilustrar quanto trabalho posso colocar em um projeto e como sou apaixonado por desenvolvimento web!</i></p>
 
 <div align="center">
   <a href="https://github.com/Allan-Carlos">
