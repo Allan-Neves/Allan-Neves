@@ -1,9 +1,9 @@
   <div>
   <h1 align="center">Oi Tudo bem? Que bom você por aqui! 😃️</h1><div align="center">
 
-<p align="center">Meu nome é Allan e sou um estudante de programação. Tenho um imenso carrinho por desenvolvimento web, e amo dar a vida em todos os meus projetos!
+<p align="center">Olá, eu me chamo Allan e sou um aficionado por programação. Desenvolvimento web é a minha paixão e eu adoro transformar ideias em realidade com os meus projetos!
 
-Espero que meu portfólio ajude a ilustrar quanto trabalho posso colocar em um projeto e como sou apaixonado por programação!</i></p>
+Neste perfil, você vai encontrar exemplos de como eu me dedico e me divirto com a programação. Espero que goste!</i></p>
 
 <div align="center">
   <a href="https://github.com/Allan-Carlos">
