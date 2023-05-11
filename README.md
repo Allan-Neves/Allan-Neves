@@ -9,7 +9,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allan-carlos&bg_color=0e0e0e&color=fffafa&line=1e90ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allan-carlos&bg_color=0e0e0e&color=fffafa&line=1e90ff&point=fffafa&area=true&hide_border=true)](https://github.com/Allan-Carlos)
 
 <div align="center">
 
