@@ -1,46 +1,63 @@
-  <div>
-  <h1 align="center">Oi Tudo bem? Que bom você por aqui! 😃️</h1><div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=130&section=header">
 
-<p align="center">Olá, eu me chamo Allan e sou um aficionado por programação. Desenvolvimento web é a minha paixão e eu adoro transformar ideias em realidade com os meus projetos!
+[![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+me+chamo+Allan!;Tenho+17+anos.;Sou+um+estudante+front-end...;E+sou+brasileiro!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
-Neste perfil, você vai encontrar exemplos de como eu me dedico e me divirto com a programação. Espero que goste!</i></p>
-
-<div align="center">
-  <a href="https://github.com/Allan-Carlos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Allan-Carlos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Carlos&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-carlos&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Allan Carlos github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-carlos&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="45" width="45" src="https://imgur.com/N88GSwR.png">
-  
-  <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allan-carlos&bg_color=0e0e0e&color=fffafa&line=1e90ff&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+  ![Animação da cobrinha](https://github.com/Allan-Carlos/Allan-Carlos/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
-  ##
- 
-<div align="center">
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=allan-carlos&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<br>
+
+<div align="center"> 
    <a href="https://www.instagram.com/allancarlos__1/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/allan-carlos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:allan3017carlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://discord.gg/9mYexSJmSA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://www.facebook.com/profile.php?id=100033800375579"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   <!--<a href="https://www.youtube.com/channel/UCc5yo81z-LRQsZT3HFqOJgQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>-->
+ </div>
 
-<!--
-   <a href="https://www.youtube.com/channel/UCc5yo81z-LRQsZT3HFqOJgQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
+<br>
+
+<div align="center">
+
+ ## Minhas principais skills:
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+<br>
+
+## Estudando neste momento:
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/Allan-Carlos/Allan-Carlos/blob/output/github-contribution-grid-snake.svg)
-  
+<br>
+<p align="center"><b>Quantidade de espiões</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{allan-carlos}/count.svg" /></p>
+<br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=120&section=footer"/>
