@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=130&section=header">
 
-[![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+me+chamo+Allan!;Tenho+17+anos.;Sou+um+estudante+front-end...;E+sou+brasileiro!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
+[![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Allan!;Tenho+17+anos.;Sou+um+estudante+front-end...;E+sou+brasileiro!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-carlos&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Allan Carlos github stats" />
