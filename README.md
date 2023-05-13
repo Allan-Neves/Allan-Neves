@@ -50,7 +50,6 @@
 ## Estudando neste momento:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Markdown](https://img.shields.io/badge/-markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 </div>
