@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  ![Animação da cobrinha](https://github.com/Allan-Carlos/Allan-Carlos/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Animação da cobrinha](https://github.com/Allan-Carlos/Allan-Carlos/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
