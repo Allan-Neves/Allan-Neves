@@ -3,15 +3,15 @@
 [![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Allan!;Tenho+18+anos.;Sou+um+estudante+front-end...;E+sou+brasileiro!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-carlos&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Allan Carlos github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-carlos&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-carlos&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Allan Neves github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-neves&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
 </div>
 
 <br>
 
 <div align="center"> 
   <h2>Redes sociais</h2>
-   <a href="https://www.instagram.com/allancarlos__1/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.instagram.com/a.allanc/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/allan-carlos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:allan3017carlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://discord.gg/9mYexSJmSA"><img src="https://img.shields.io/badge/Discord-506fde?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2 align="center"><b>Quantidade de espiões</b></h2>  
-  <h2 align="center"><img align="center" src="https://profile-counter.glitch.me/{allan-carlos}/count.svg" /></h2>
+  <h2 align="center"><img align="center" src="https://profile-counter.glitch.me/{allan-neves}/count.svg" /></h2>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=120&section=footer"/>
