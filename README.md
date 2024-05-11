@@ -3,8 +3,8 @@
 [![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Allan!;Tenho+18+anos.;Sou+um+estudante+front-end...;E+sou+brasileiro!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allan-neves&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Allan Neves github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-neves&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+  <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=allan-neves&theme=graywhite&mode=weekly&locale=pt-br" />
+  <img width="42.3%" src="https://github-readme-stats-mu-wheat.vercel.app/api/top-langs/?username=allan-neves&layout=compact&hide_border=true&title_color=000&text_color=000&bg_color=fff&locale=pt-br"/>
 </div>
 
 <br>
